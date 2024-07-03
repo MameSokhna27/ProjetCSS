@@ -1,0 +1,90 @@
+
+.body{
+    font-family: roboto;
+    margin: 0;
+    padding: 0;
+    margin: 0%;
+    
+}   
+.nom{
+    text-align: left;
+    margin-right: 40%;
+    font-weight: bold;
+    color: white;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    padding:  0px;
+    justify-content: right;
+    align-items: flex-end;
+    margin: auto;
+    background-color: black;
+    
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin:  20px;
+
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color:rosybrown;
+    font-weight: bold;
+}
+
+ .propos, .info, .logo, .fonction{
+    background-color: black;
+    color: rosybrown;
+    display: inline-block;
+    padding: O%;
+    font-style: normal;
+    
+ }
+ 
+ .propos{
+    display: flex;
+    justify-content: center;
+ }
+ .info{
+    width: 50%;
+    height: 500px;
+   
+ }
+
+img{
+    width: 680px;
+    height: 400px;
+    padding-left: 0%;
+}
+.info{
+    margin-left: 10px;
+}
+.fonction{
+    text-align: justify;
+    font-style: initial;
+    font-weight: bold;
+}
+    
+p {
+    border: 10px solid black;
+    margin: 20px;
+  }
+  .rounded {
+    border-radius: 15px;
+  }
+  .bordure{
+    background-color: antiquewhite;
+    padding-top: 0%;
+    margin: 0%;
+  }
+  
+.pied{
+    text-align: center;
+}
+
+
